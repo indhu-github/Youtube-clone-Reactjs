@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Youtube-clone-Reactjs/static/js/main.b188bcf6.chunk.js",
+    "main.js.map": "/Youtube-clone-Reactjs/static/js/main.b188bcf6.chunk.js.map",
+    "runtime-main.js": "/Youtube-clone-Reactjs/static/js/runtime-main.96eedea9.js",
+    "runtime-main.js.map": "/Youtube-clone-Reactjs/static/js/runtime-main.96eedea9.js.map",
+    "static/js/2.850edfd7.chunk.js": "/Youtube-clone-Reactjs/static/js/2.850edfd7.chunk.js",
+    "static/js/2.850edfd7.chunk.js.map": "/Youtube-clone-Reactjs/static/js/2.850edfd7.chunk.js.map",
+    "index.html": "/Youtube-clone-Reactjs/index.html",
+    "precache-manifest.5c46b039c73a8e70784e9db418b19979.js": "/Youtube-clone-Reactjs/precache-manifest.5c46b039c73a8e70784e9db418b19979.js",
+    "service-worker.js": "/Youtube-clone-Reactjs/service-worker.js",
+    "static/js/2.850edfd7.chunk.js.LICENSE.txt": "/Youtube-clone-Reactjs/static/js/2.850edfd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96eedea9.js",
+    "static/js/2.850edfd7.chunk.js",
+    "static/js/main.b188bcf6.chunk.js"
+  ]
+}
