@@ -1,4 +1,4 @@
-Live URL :- https://indhu-github.github.io/Youtube-clone-Reactjs/
+Live Demo :- https://indhu-github.github.io/Youtube-clone-Reactjs/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
